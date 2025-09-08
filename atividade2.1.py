@@ -1,0 +1,5 @@
+x1 = int(input("Digite a coordenado x do primeiro ponto"))
+y1 = int(input("Digite a coordenado y do primeiro ponto"))
+x2 = int(input("Digite a coordenado x do segundo ponto"))
+y2 = int(input("Digite a coordenado y do segundo ponto"))
+print(((x1-x2)**2 + (y1-y2)**2)**0.5)
